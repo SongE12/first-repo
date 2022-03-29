@@ -28,6 +28,7 @@ or, just clone and `$ npm i & npm start`.
 ```python
 animals = []
 animal.append('kangaroo')
+animal.append('joker')
 ```
 
 
